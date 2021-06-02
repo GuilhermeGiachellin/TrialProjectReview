@@ -4,22 +4,22 @@
 }
 
 #navbar {
-  position: fixed;
+  position:fixed;
   width:250px;
   height:100px;
   text-align:center;
 }
 
 #technical-doc-page {
-  width: 700px;
+  width:700px;
   margin-left: 300px;
 }
-  
+ 
 header {
   font-weight:bold;
   font-size: 18px;
 }
-  
+
 .nav-link {
   margin-bottom: 20px;
   font-size: 20px;
@@ -29,10 +29,3 @@ header {
 a {
   text-decoration:none;
 }
-
-@media only screen and (max-width: 600px) {
-  #Galvanize is the first one code {
-  display: none;
-}
-}
-  
